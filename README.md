@@ -1,20 +1,27 @@
 <p align="center">
-  <img width="1200" src="banner.png"/>
+  <a href="#">
+    <img align="center" height="300" width="280" src="signature.png" />
+  </a>
+  <a href="#">
+    <img align="center" height="300" src="banner.gif" />
+  </a>
 </p>
 
-<center>
-  <table cellspacing="0" cellpadding="0">
-    <tr>
-        <td>
-            <img align="left" src="https://github-readme-stats.vercel.app/api?username=wnqueiroz&count_private=true&show_icons=true&theme=dracula" />
-        </td>
-        <td>
-            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnqueiroz&hide=html&layout=compact&theme=dracula" />
-        </td>
-    </tr>   
-  </table>
-</center>
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnqueiroz&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=wnqueiroz&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
