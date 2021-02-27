@@ -38,7 +38,7 @@
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      src="icons/amazonwebservices-original-wordmark.svg"
       alt="aws"
       width="40"
       height="40"
@@ -46,7 +46,7 @@
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      src="icons/docker-original-wordmark.svg"
       alt="docker"
       width="40"
       height="40"
@@ -57,7 +57,7 @@
     target="_blank"
   >
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      src="icons/javascript-original.svg"
       alt="javascript"
       width="40"
       height="40"
@@ -65,7 +65,7 @@
   </a>
   <a href="https://www.jenkins.io" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
+      src="icons/jenkins-original.svg"
       alt="jenkins"
       width="40"
       height="40"
@@ -73,7 +73,7 @@
   </a>
   <a href="https://jestjs.io" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+      src="icons/jest-original.svg"
       alt="jest"
       width="40"
       height="40"
@@ -81,7 +81,7 @@
   </a>
   <a href="https://kubernetes.io" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+      src="icons/kubernetes-original.svg"
       alt="kubernetes"
       width="40"
       height="40"
@@ -89,7 +89,7 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      src="icons/mongodb-original-wordmark.svg"
       alt="mongodb"
       width="40"
       height="40"
@@ -97,7 +97,7 @@
   </a>
   <a href="https://nodejs.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      src="icons/nodejs-original-wordmark.svg"
       alt="nodejs"
       width="40"
       height="40"
@@ -105,7 +105,7 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
+      src="icons/postgresql-original-wordmark.svg"
       alt="postgresql"
       width="40"
       height="40"
@@ -113,7 +113,7 @@
   </a>
   <a href="https://www.rabbitmq.com" target="_blank">
     <img
-      src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
+      src="icons/rabbitmq-original.svg"
       alt="rabbitMQ"
       width="40"
       height="40"
@@ -121,7 +121,7 @@
   </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      src="icons/react-original-wordmark.svg"
       alt="react"
       width="40"
       height="40"
@@ -129,7 +129,7 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      src="icons/typescript-original.svg"
       alt="typescript"
       width="40"
       height="40"
