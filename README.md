@@ -135,6 +135,14 @@
       height="40"
     />
   </a>
+  <a href="https://www.elastic.co/pt/what-is/elasticsearch" target="_blank">
+    <img
+      src="icons/elasticsearch-original.svg"
+      alt="elasticsearch"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 ### Find me around the web 🌎:
