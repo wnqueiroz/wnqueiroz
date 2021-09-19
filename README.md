@@ -25,7 +25,7 @@
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/wnqueiroz/wnqueiroz/output/github-contribution-grid-snake.gif)
+![](https://raw.githubusercontent.com/wnqueiroz/wnqueiroz/output/github-contribution-grid-snake.svg)
 
 </div>
 
